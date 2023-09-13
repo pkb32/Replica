@@ -1,0 +1,152 @@
+
+#introduction{
+    background: #11cdd4;
+    background-image: -o-linear-gradient(top, #ee0b0b, #ee073d,#6610f2,#fd7e14,#fff,#006dff);
+    background-image: linear-gradient(to bottom, #e80d70, #c0e90a,#e83e8c,#28a745,#6ba1d7,#e83b45,rgb(236, 175, 175),rgb(22, 28, 229),#E0D1FD,rgb(233, 226, 226));
+    
+}
+.intro-image{
+   width: 100%;
+   padding: 10% 5%;
+   border-radius: 16px;
+   
+}
+.intro{
+    align-items: center;
+}
+.card-left,.card-right{
+    text-align: center;
+}
+.edit-card-left{
+    margin: 1%;
+    border-radius: 10%;
+    background-color:linear-gradient(0deg, rgba(255, 39, 118, 0.1), rgba(255, 39, 118, 0.1)), linear-gradient(180deg, rgba(255, 39, 118, 0.1) 0%, rgba(255, 39, 118, 0) 100%);
+    background-image: linear-gradient(0deg, rgba(255, 39, 118, 0.1), rgba(255, 39, 118, 0.1)), linear-gradient(rgba(255, 39, 118, 0.1) 0%, rgba(255, 39, 118, 0) 100%);
+    background-position-x: initial, initial;
+    background-position-y: initial, initial;
+    background-size: initial, initial;
+    background-attachment: initial, initial;
+    background-origin: initial, initial;
+    background-clip: initial, initial;
+    background-color: initial;
+}
+.edit-card-right{
+    margin: 1%;
+    border-radius: 10%;
+    background: linear-gradient(180deg, #E0D1FD 0%, #E4F4FE 100%);
+    background-image: linear-gradient(rgb(224, 209, 253) 0%, rgb(228, 244, 254) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+.mvs .btn {
+    background: #34d9a7;
+    background-image: -webkit-linear-gradient(top, #34d9a7, #E0D1FD);
+    background-image: -moz-linear-gradient(top, #34d9a7, #E0D1FD);
+    background-image: -ms-linear-gradient(top, #34d9a7, #E0D1FD);
+    background-image: -o-linear-gradient(top, #34d9a7, #E0D1FD);
+    background-image: linear-gradient(to bottom, #34d9a7, #E0D1FD);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  .mvs{
+    text-align: center;
+    margin: 5%;
+  }
+  
+  .btn:hover {
+    text-decoration: none;
+  }
+  .pdt{
+    background: #99e7ea;
+   background:linear-gradient(270deg, rgba(0, 109, 255, 0) 0%, rgba(0, 109, 255, 0.1) 100%), rgba(0, 109, 255, 0.1);
+  }
+  .pdt-img{
+    padding-top:15%;
+    padding-bottom: 15%;
+    height:35rem;
+    width:35rem;
+
+ }
+ .description{
+   font-size: 36px;
+   text-align: right;
+   line-height: 1.5;
+   text-align: center;  
+   padding-top: 15%;
+   padding-bottom: 15%;
+ }
+
+.but5{
+ text-align: center;
+ padding: 2%;
+}
+.edit-card-left1{
+   background: linear-gradient(180deg, rgba(140, 51, 255, 0.1) 0%, rgba(140, 51, 255, 0) 100%), rgba(140, 51, 255, 0.1);
+   text-align: center;
+   border-radius: 2%;
+}
+.edit-card-right1{
+   background:  linear-gradient(180deg, rgba(0, 191, 65, 0.1) 0%, rgba(0, 191, 65, 0) 100%), rgba(0, 191, 65, 0.1);
+    text-align: center;
+    border-radius: 2%;
+}
+.pdt-btn{
+    padding: 5%;
+}
+.mid-pic,.mid-pic1{
+    align-items: center;
+}
+.adjust{
+    padding: 1% 10%;
+    align-items: baseline;
+    align-content: center;
+}
+
+#bn-mid-1{
+    text-align: center; 
+    margin-top: 5%;
+    width: 21.875rem;
+    background-color:#8523c7 ;
+}
+#bn-mid-2{
+    text-align: center;
+    margin-left: 30rem;
+    width: 18rem;
+    background-color: #2fd155;
+}
+h2{
+    text-align: center;
+    padding: 5%;
+}
+.card{
+    border: none;
+}
+.tyu{
+    padding-right: 10rem;
+}
+td{
+   padding-left: 2rem;
+}
+#foot{
+    margin: 5% 0;
+    padding: 10% 2%;
+    background: #171717;
+    color: #fff;
+}
+#footer{
+    color: #fff;
+    background-color: #000000;
+    padding: 3% 15%;
+}
